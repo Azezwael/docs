@@ -1,4 +1,4 @@
----
+0x3f3985D3fAea48b12A2092B249f014945630c0b8
 title: GitHub Bug Bounty Program Legal Safe Harbor
 redirect_from:
   - /articles/github-bug-bounty-program-legal-safe-harbor
